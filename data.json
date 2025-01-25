@@ -1,13 +1,18 @@
 [
-  {
-    "id": 1,
-    "title": "Inception",
-    "plot": "as testing now",
-    "poster": "https://google.com",
-    "genre": "action",
-    "dLinkOne": "test",
-    "dLinkTwo": "test",
-    "streamOne": "test",
-    "streamTwo": "test"
-  }
+    {
+        "id": 1,
+        "title": "Inception",
+        "plot": "as testing now",
+        "poster": "https://google.com",
+        "genre": "action",
+        "dLinkOne": "test",
+        "dLinkTwo": "test",
+        "streamOne": "test",
+        "streamTwo": "test"
+    },
+    {
+        "id": 3,
+        "title": "New Movie",
+        "plot": "New plot details"
+    }
 ]
